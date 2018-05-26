@@ -1,4 +1,4 @@
-function getFirstSelector(selector)
+function getFirstSelector(m)
 {
-  return document.getElementById(selector);
+  return document.getElementById(m);
 }
